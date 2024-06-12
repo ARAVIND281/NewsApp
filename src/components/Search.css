@@ -1,0 +1,46 @@
+.search {
+    width: 100%;
+    padding: 2rem;
+  }
+  
+  .search-results {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+  
+  .search-history {
+    margin-top: 2rem;
+  }
+  
+  .history-chips {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .p-inputgroup {
+    margin-bottom: 2rem;
+  }
+  
+  .p-button {
+    margin-left: 1rem;
+  }
+  
+  .p-chip {
+    cursor: pointer;
+  }
+  
+  .p-chip:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .p-chip .p-chip-text {
+    font-weight: bold;
+  }
+  
+  .p-chip .p-chip-remove-icon {
+    color: red;
+  }
+  

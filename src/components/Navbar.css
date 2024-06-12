@@ -1,0 +1,32 @@
+.navbar {
+    margin-bottom: 2rem;
+  }
+  
+  .navbar .p-menubar {
+    background-color: #343a40;
+    border: none;
+    border-radius: 0;
+    padding: 0 1rem;
+  }
+  
+  .navbar .p-menubar .p-menubar-root-list > .p-menuitem > .p-menuitem-link {
+    color: #ffffff;
+    padding: 1rem 1.5rem;
+  }
+  
+  .navbar .p-menubar .p-menubar-root-list > .p-menuitem > .p-menuitem-link:hover {
+    background-color: #495057;
+  }
+  
+  .navbar .p-menubar .p-menubar-root-list > .p-menuitem > .p-menuitem-link .p-menuitem-text {
+    font-weight: 600;
+  }
+  
+  .navbar .p-menubar .p-menubar-start {
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    font-size: 1.25rem;
+    text-decoration: none;
+  }
+  
